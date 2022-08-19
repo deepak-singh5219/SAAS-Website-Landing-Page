@@ -1,11 +1,12 @@
 # SAAS Website Landing Page UI
 
-This is the User-Interface of Landing page of a SAAS website designed fully with `HTML` and `CSS`. The Landing page contains:
+This is the User-Interface of Landing page of a SAAS website designed fully with `HTML` and `CSS`. The web page is fully responsive. The Landing page contains:
 
  - Navbar
  - Header
  - Overview Section
  - Services Section
+
 
 
  # Learning Outcomes
@@ -17,6 +18,7 @@ This is the User-Interface of Landing page of a SAAS website designed fully with
   - Learnt the `Flexbox model` for advanced layout.
   - Learn the `Grid model` for advanced layout.
   - Making the UI beautiful using CSS concepts.
+  - Making websites responsive using media queries.
 
 # Languages Used:
  ### HTML and CSS
